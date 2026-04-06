@@ -2,7 +2,6 @@
 name: dietary-guard
 description: On-device vision agent to flag Gluten, Soy, and Added Sugar in food labels.
 version: 1.2.6
-capabilities: [vision, reasoning]
 ---
 
 # L2: Instructions
