@@ -1,7 +1,7 @@
 ---
 name: dietary-guard
 description: On-device vision agent to flag Gluten, Soy, and Added Sugar in food labels.
-version: 1.2.6
+version: 1.2.5
 capabilities: [vision, reasoning]
 ---
 
@@ -29,4 +29,4 @@ You are a Food Safety Auditor. When an image or text list is provided:
 
 # L3: Resources
 - **Reference:** Standard Allergen Derivative List (2026 Edition)
-- **Model:** Optimized for Gemma-4-E2B Fallback on A15 NPU
+- **Model:** Optimized for Gemma-4-E2B Fallback
